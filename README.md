@@ -15,3 +15,7 @@ incase of conflicts resolved
 
 git push
 
+# to publish the branch 
+git push -u otigin <branch name>
+# to go to the main branch
+git checkout <branchname>
